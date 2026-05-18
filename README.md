@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Arthur Penha]
+# 👋 Olá, eu sou Arthur Penha
 
 > Estudante de Análise e Desenvolvimento de Sistemas | Brasília-DF
 

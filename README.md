@@ -43,7 +43,6 @@ Este repositório é o meu **portfólio pessoal**, reunindo projetos desenvolvid
 ## 🚀 Projetos
 
 | 🚧 Em andamento |
-| Calculadora | HTML, JavaScript | Planejado e Iniciado|
 
 ---
 
